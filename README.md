@@ -1,5 +1,8 @@
 # BANK-MARKETING-CAMPAIGN
-<b> An analysis of the dataset of the bank's marketing campaign data to help the bank optimize its operations and strategies to attract more customers to subscribe to term deposits. </b>
+
+This is a sample code repository that leveraged ["Bank Marketing Dataset"](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset) from [Kaggle](https://www.kaggle.com/)
+
+<b> An analysis of the dataset of the bank's marketing campaign to help the bank optimize its operations and strategies to attract more customers to subscribe to term deposits. </b>
 
 The data is related to direct marketing campaigns (phone calls) of a BankX including 45211 observations, each with 17 attributes. The target y attribute shows the result if clients will subscribe the term deposit or not. The target feature is coded as “yes” to indicate client will subscribe a term deposit while “no” means client will not subscribe the term deposit.<br>
 
