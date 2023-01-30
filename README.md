@@ -1,6 +1,6 @@
 # BANK-MARKETING-CAMPAIGN
 
-This is a sample code repository that leveraged ["Bank Marketing Dataset"](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset) from [Kaggle](https://www.kaggle.com/)
+This is a sample code repository that leveraged ["Bank Marketing Dataset"](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset) from [Kaggle](https://www.kaggle.com/) to explore the dataset, perform EDA and predict the deposit likelihood.
 
 <b> An analysis of the dataset of the bank's marketing campaign to help the bank optimize its operations and strategies to attract more customers to subscribe to term deposits. </b>
 
